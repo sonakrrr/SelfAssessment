@@ -1,89 +1,89 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object: 🖐️ used
-  - this: 🖐️ used
-  - arrow function: 🖐️ used
+  - Object🙋 explained
+  - this🙋 explained
+  - arrow function🙋 explained
   - async function: 🖐️ used
   - call: 🖐️ used
   - bind: 🖐️ used
   - apply: 🖐️ used
-  - instanceof: 🖐️ used
-  - ...spread: 🖐️ used
-  - ...rest: 🖐️ used
-  - typeof: 🖐️ used
-  - destructuring: 🖐️ used
+  - instanceof: 🙋 explained
+  - ...spread: 🙋 explained
+  - ...rest: 🙋 explained
+  - typeof: 🙋 explained
+  - destructuring: 🙋 explained
   - generator: 🖐️ used
   - iterator: 🖐️ used
-  - async generator: 👂 heard
-  - async iterator: 👂 heard
+  - async generator: 🎓 known
+  - async iterator: 🎓 known
   - chaining: 🖐️ used
   - optional chaining: 🖐️ used
-  - IIFE: 🖐️ used
-  - global: 🖐️ used
+  - IIFE: 🙋 explained
+  - global: 🙋 explained
   - globalThis: 🖐️ used
   - window: 🖐️ used
   - getters and setters: 🖐️ used
   - __proto__: 🖐️ used
   - prototype: 🖐️ used
-  - equality operators: 🖐️ used
-  - logical operators: 🖐️ used
-  - bitwise operators: 🖐️ used
-  - ternary operator: 🖐️ used
-  - void: 🖐️ used
-  - yield: 👂 heard
-  - await: 👂 heard
+  - equality operators: 🙋 explained
+  - logical operators: 🙋 explained
+  - bitwise operators: 🎓 known
+  - ternary operator: 🙋 explained
+  - void: 🙋 explained
+  - yield: 🎓 known
+  - await: 🖐️ used
   - template literal: 🖐️ used
-  - strict mode: 🖐️ used
-  - delete: 🖐️ used
-  - in: 🖐️ used
-  - super: 🖐️ used
+  - strict mode: 🙋 explained
+  - delete: 🙋 explained
+  - in: 🙋 explained
+  - super: 🙋 explained
   - Symbol: 🖐️ used
   - Reflect: 👂 heard
 - Statements
-  - if: 🖐️ used
-  - while: 🖐️ used
-  - do..while: 🖐️ used
-  - for: 🖐️ used
-  - for..in: 🖐️ used
-  - for..of: 🖐️ used
-  - for await: 🖐️ used
-  - throw: 🖐️ used
-  - break: 🖐️ used
-  - continue: 🖐️ used
-  - import: 🖐️ used
-  - export: 🖐️ used
-  - label: 🖐️ used
-  - try..catch: 🖐️ used
-  - switch: 🖐️ used
-  - class: 🖐️ used
-  - new Error: 🖐️ used
-  - with: 🖐️ used
+  - if: 🙋 explained
+  - while: 🙋 explained
+  - do..while: 🙋 explained
+  - for: 🙋 explained
+  - for..in: 🙋 explained
+  - for..of: 🙋 explained
+  - for await: 🙋 explained
+  - throw: 🙋 explained
+  - break: 🙋 explained
+  - continue: 🙋 explained
+  - import: 🙋 explained
+  - export: 🙋 explained
+  - label: 🙋 explained
+  - try..catch: 🙋 explained
+  - switch: 🙋 explained
+  - class: 🙋 explained
+  - new Error: 🙋 explained
+  - with: 🎓 known
 - Functions
-  - function declaration: 🖐️ used
-  - function expression: 🖐️ used
-  - return: 🖐️ used
-  - default parameters: 🖐️ used
-  - functional object: 👂 heard
+  - function declaration: 🙋 explained
+  - function expression: 🙋 explained
+  - return: 🙋 explained
+  - default parameters: 🙋 explained
+  - functional object: 🖐️ used
 - Data structures
-  - Array: 🖐️ used
-  - mixin: 👂 heard
-  - extend: 🖐️ used
-  - typed arrays: 👂 heard
-  - Map: 🖐️ used
-  - Set: 🖐️ used
-  - undefined: 🖐️ used
-  - null: 🖐️ used
-  - Proxy: 👂 heard
-  - weak collections: 👂 heard
-  - timers: 👂 heard
-  - EventEmitter: 👂 heard
-  - RegExp: 👂 heard
-  - Date: 👂 heard
-  - BigInt: 👂 heard
+  - Array: 🙋 explained
+  - mixin: 🎓 known
+  - extend: 🙋 explained
+  - typed arrays: 🖐️ used
+  - Map: 🙋 explained
+  - Set: 🙋 explained
+  - undefined: 🙋 explained
+  - null: 🙋 explained
+  - Proxy: 🖐️ used
+  - weak collections
+  - timers: 🖐️ used
+  - EventEmitter: 🖐️ used
+  - RegExp: 🙋 explained
+  - Date: 🖐️ used
+  - BigInt: 🖐️ used
 - Infrastructure
-  - V8: 👂 heard
-  - Node.js: 🎓 known
-  - npm: 🎓 known
-  - prettier: 🎓 known
-  - MDN: 🎓 known
+  - V8: 🎓 known
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
+  - prettier: 🙋 explained
+  - MDN: 🙋 explained

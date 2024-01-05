@@ -1,78 +1,78 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value: 🖐️ used
-  - identifier: 🖐️ used
-  - variable: 🖐️ used
-  - constant: 🖐️ used
-  - scalar: 🖐️ used
-  - literal: 🖐️ used
-  - expression: 🖐️ used
+  - value: 🙋 explained
+  - identifier: 🙋 explained
+  - variable: 🙋 explained
+  - constant: 🙋 explained
+  - scalar: 🙋 explained
+  - literal: 🙋 explained
+  - expression: 🙋 explained
   - heap: 🎓 known
-  - function: 🖐️ used
+  - function: 🙋 explained
   - procedure: 🖐️ used
-  - method: 🖐️ used
-  - class: 🖐️ used
+  - method: 🙋 explained
+  - class: 🙋 explained
   - prototype: 🖐️ used
-  - event: 🖐️ used
+  - event: 🙋 explained
   - type: 🖐️ used
-  - primitive types: 🖐️ used
-  - reference types: 🖐️ used
-  - flag: 🖐️ used
-  - lexical scope: 🖐️ used
-  - code block: 🖐️ used
-  - conditions: 🖐️ used
-  - loops: 🖐️ used
-  - assignment: 🖐️ used
-  - regular expression: 🎓 known
-  - interface: 🎓 known
+  - primitive types: 🙋 explained
+  - reference types: 🙋 explained
+  - flag: 🙋 explained
+  - lexical scope: 🙋 explained
+  - code block: 🙋 explained
+  - conditions: 🙋 explained
+  - loops: 🙋 explained
+  - assignment: 🙋 explained
+  - regular expression: 🙋 explained
+  - interface: 🖐️ used
   - contract: 🖐️ used
   - module: 🖐️ used
-  - call stack: 🎓 known
+  - call stack: 🖐️ used
 - Functions
-  - signature: 🎓 known
-  - argument: 🖐️ used
-  - parameter: 🖐️ used
-  - pure function: 🖐️ used
-  - lambda expression: 🖐️ used
+  - signature: 🙋 explained
+  - argument: 🙋 explained
+  - parameter: 🙋 explained
+  - pure function: 🙋 explained
+  - lambda expression: 🙋 explained
   - side effects: 🎓 known
   - closure: 🖐️ used
   - partial application: 🖐️ used
   - curry: 🖐️ used
   - higher order: 🖐️ used
   - recursion: 🖐️ used
-  - callback: 🖐️ used
+  - callback: 🙋 explained
   - listener: 🖐️ used
   - compose: 🖐️ used
   - pipe: 🖐️ used
-  - memoize: 🎓 known
+  - memoize: 🖐️ used
   - wrapper: 🖐️ used
-  - functor: 🎓 known
-  - monad
-  - monoid
+  - functor: 👂 heard
+  - monad: 👂 heard
+  - monoid: 👂 heard
   - generator: 🎓 known
-  - coroutine
+  - coroutine: 👂 heard
 - Data structures
-  - array: 🖐️ used
+  - array: 🙋 explained
   - structure: 🖐️ used
-  - record: 🖐️ used
-  - enum: 🎓 known
-  - instance: 🖐️ used
-  - object: 🖐️ used
-  - class: 🖐️ used
-  - collection: 🖐️ used
+  - record: 🎓 known
+  - enum: 🖐️ used
+  - instance: 🙋 explained
+  - object: 🙋 explained
+  - class: 🙋 explained
+  - collection: 🙋 explained
   - set: 🖐️ used
-  - hash table: 🖐️ used
+  - hash table: 🙋 explained
   - linked list: 🖐️ used
   - doubly list: 🖐️ used
   - unrolled list: 🎓 known
   - circular list: 🎓 known
-  - queue: 🖐️ used
-  - stack: 🖐️ used
+  - queue: 🙋 explained
+  - stack: 🙋 explained
   - deque: 🖐️ used
-  - tree: 🖐️ used
-  - graph: 🖐️ used
-  - iterator: 🖐️ used
+  - tree: 🙋 explained
+  - graph: 🙋 explained
+  - iterator: 🎓 known
   - mutable state: 🎓 known
   - immutable state: 🎓 known
   - serialization: 🖐️ used
@@ -83,13 +83,13 @@
   - linter: 🎓 known
   - polyfill: 🎓 known
   - debugger: 🖐️ used
-  - garbage collection: 🖐️ used
-  - refactoring: 🎓 known
+  - garbage collection: 🎓 known
+  - refactoring: 🖐️ used
   - code review: 🖐️ used
-  - antipatterns: 🖐️ used
+  - antipatterns: 🎓 known
   - paradigm: 🖐️ used
   - algorithm: 🖐️ used
-  - magic numbers: 🖐️ used
+  - magic numbers: 🎓 known
   - hardcode: 🎓 known
   - complexity: 🎓 known
   - decomposition: 🎓 known
@@ -98,7 +98,7 @@
   - not invented here: 🎓 known
   - dead code: 🎓 known
   - unreachable code: 🎓 known
-  - duplicate code: 🖐️ used
+  - duplicate code: 🎓 known
   - exception: 🖐️ used
   - return early: 🖐️ used
   - unittest: 🎓 known
